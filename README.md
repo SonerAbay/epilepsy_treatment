@@ -1,7 +1,7 @@
 # Epilepsy Treatment Classification
 
-epilepsi.csv containt 4 features: base, age, seizure.rate, period  
 Based on these features, the developed model classifies whether the patient is getting a real or fake treatment.  
+epilepsi.csv containt 4 features: base, age, seizure.rate, period  
 
 **4 different models have been created for this class project:**  
 
