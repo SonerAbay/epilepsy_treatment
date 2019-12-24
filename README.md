@@ -1,9 +1,9 @@
 # Epilepsy Treatment Classification
 
 epilepsi.csv containt 4 features: base, age, seizure.rate, period  
-Based on these features, the developed model classifies whether the patient is getting a real or fake treatment.
+Based on these features, the developed model classifies whether the patient is getting a real or fake treatment.  
 
-*We used 4 model for this class project:*  
+**We used 4 model for this class project:**  
 
 1) SVM
 2) KNN
