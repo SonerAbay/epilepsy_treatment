@@ -3,7 +3,7 @@
 epilepsi.csv containt 4 features: base, age, seizure.rate, period  
 Based on these features, the developed model classifies whether the patient is getting a real or fake treatment.  
 
-**4 different models are created for this class project:**  
+**4 different models has been created for this class project:**  
 
 1) SVM
 2) KNN
